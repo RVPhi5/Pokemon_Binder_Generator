@@ -1,0 +1,10 @@
+rank,card_id,score,name,set_name,rarity,image_path
+1,swsh2-8,5.326284885406494,Lombre,Rebel Clash,Uncommon,data/images/swsh2-8.png
+2,xy2-14,5.106003761291504,Ponyta,Flashfire,Common,data/images/xy2-14.png
+3,ex2-5,3.0627036094665527,Flareon,Sandstorm,Rare Holo,data/images/ex2-5.png
+4,hgss1-14,3.0375263690948486,Ampharos,HeartGold & SoulSilver,Rare,data/images/hgss1-14.png
+5,xy11-17,1.4415942430496216,Rapidash,Steam Siege,Uncommon,data/images/xy11-17.png
+6,hgss3-14,1.2131577730178833,Hariyama,HS—Undaunted,Rare,data/images/hgss3-14.png
+7,dp3-10,0.5502706170082092,Ho-Oh,Secret Wonders,Rare Holo,data/images/dp3-10.png
+8,sm8-17,0.49544405937194824,Shuckle-GX,Lost Thunder,Rare Holo GX,data/images/sm8-17.png
+9,bw7-18,0.14265243709087372,Charmander,Boundaries Crossed,Common,data/images/bw7-18.png
