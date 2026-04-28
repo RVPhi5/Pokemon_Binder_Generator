@@ -4,6 +4,7 @@ import torch.nn as nn
 
 class CompatabilityModel(nn.Module):
     def __init__(self, emb_dim:int):
+        super().__init__()
         input_dim = 2 * emb_dim
         self.mlp = nn.Sequential(
             nn.Linear(input_dim, 256),
