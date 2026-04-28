@@ -56,7 +56,7 @@ def find_card_id(query, df, card_ids):
         raise ValueError(f"No card found matching: {query}")
 
     print("\nMatches:")
-    for i, (_, row) in enumerate(matches.head(10).iterrows()):
+    for i, (_, row) in enumerate(matches.iterrows()):
         print(f"{i}: {row['id']} | {row['name']} | {row.get('set_name', '')}")
 
     chosen = input("\nChoose match number: ").strip()
